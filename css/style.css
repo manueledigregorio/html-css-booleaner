@@ -24,3 +24,11 @@ header{
  h1{
    margin-bottom: 0;
  }
+
+ .blu{
+    width: 50%;
+    background-color: rgba(100, 148, 237, 0.3);
+ }
+ .title-color{
+    background-color: cornflowerblue;
+ }
