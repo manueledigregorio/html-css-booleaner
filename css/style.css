@@ -1,34 +1,36 @@
-body{
-    margin: 0;
-    padding: 0;
+body {
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: dodgerblue;
+  height: 100px;
+  background-image: url(../img/pattern.png);
+  background-repeat: repeat-x;
+  background-size: auto 200px;
+}
+h1 {
+  margin-bottom: 0;
 }
 
-header{
-    background-color: dodgerblue;
-    height:100px;  
-    background-image:url(../img/pattern.png) ;
-    background-repeat:repeat-x;
-    background-size: auto 200px;
-} 
-
-.container{
-    width: 1440px;
-    margin: auto;
+.container {
+  width: 1440px;
+  margin: auto;
 }
- 
- .logo{
-    width: 200px;
-    margin-top: 40px;
- }
- 
- h1{
-   margin-bottom: 0;
- }
 
- .blu{
-    width: 50%;
-    background-color: rgba(100, 148, 237, 0.3);
- }
- .title-color{
-    background-color: cornflowerblue;
- }
+.logo {
+  width: 200px;
+  margin-top: 40px;
+}
+
+.blu {
+  width: 50%;
+  background-color: rgba(100, 148, 237, 0.3);
+}
+.title-color {
+  background-color: cornflowerblue;
+}
+
+.row {
+  width: 30%;
+}
