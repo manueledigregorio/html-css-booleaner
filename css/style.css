@@ -34,3 +34,21 @@ h1 {
 .row {
   width: 30%;
 }
+
+th{
+   text-align: left;
+   color: white;
+}
+
+.container-img{
+    position: relative;
+    
+ }
+ h3{
+   position: absolute;
+   top:1px; 
+   left: 16px;
+   color:white;
+ }
+
+
