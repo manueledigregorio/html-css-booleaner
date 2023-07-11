@@ -38,6 +38,7 @@ h1 {
 th{
    text-align: left;
    color: white;
+   border-collapse: collapse;
 }
 
 .container-img{
